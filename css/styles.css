@@ -601,6 +601,11 @@ a {
   background-color: #31d0aa;
 }
 
+.footer-form-button:hover,
+.footer-form-button:focus {
+  background-color: #31d0aa;
+}
+
 /*?----------------MODAL----------------?*/
 .backdrop {
   position: fixed;
